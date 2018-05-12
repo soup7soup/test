@@ -1,15 +1,15 @@
-0.Python‚ğİ’u
+0.Pythonã‚’è¨­ç½®
 https://www.python.org/downloads/
-python3.6.5ƒ_ƒEƒ“ƒ[ƒh
+python3.6.5ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰
 
-*01_TwitterAPI_‰æ‘œŒŸõ
+*01_TwitterAPI_ç”»åƒæ¤œç´¢(main.py & config.py)
 1.pip install requests_oauthlib
-2.main.py‚ğƒ_ƒuƒ‹ƒNƒŠƒbƒN
-3.Œ»İ‚Ìƒzƒ‹ƒ_[‚É10–‡‚ÌÊ^‚ª•Û‘¶
+2.main.pyã‚’ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯
+3.ç¾åœ¨ã®ãƒ›ãƒ«ãƒ€ãƒ¼ã«10æšã®å†™çœŸãŒä¿å­˜
 
-*02_ƒNƒ[ƒ‰ì¬
-1.crawler.py‚ğƒ_ƒuƒ‹ƒNƒŠƒbƒN
-2.‰æ–Ê‚ÅURLˆê——•\¦
+*02_ã‚¯ãƒ­ãƒ¼ãƒ©ä½œæˆ(crawler.py)
+1.crawler.pyã‚’ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯
+2.ç”»é¢ã§URLä¸€è¦§è¡¨ç¤º
 
-á‚µ‚©‚µ‚ÄAcmd‚Å“ú–{Œê‚ªŒ©‚¦‚È‚¢ê‡‚Ícmd‚ÅAchcp 65001‚ğ“ü—Í
-QlFhttps://superuser.com/questions/625866/cmd-how-to-use-non-english-characters
+è‹¥ã—ã‹ã—ã¦ã€cmdã§æ—¥æœ¬èªãŒè¦‹ãˆãªã„å ´åˆã¯cmdã§ã€chcp 65001ã‚’å…¥åŠ›
+å‚è€ƒï¼šhttps://superuser.com/questions/625866/cmd-how-to-use-non-english-characters

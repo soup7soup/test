@@ -1,0 +1,15 @@
+0.Pythonを設置
+https://www.python.org/downloads/
+python3.6.5ダウンロード
+
+*01_TwitterAPI_画像検索
+1.pip install requests_oauthlib
+2.main.pyをダブルクリック
+3.現在のホルダーに10枚の写真が保存
+
+*02_クローラ作成
+1.crawler.pyをダブルクリック
+2.画面でURL一覧表示
+
+若しかして、cmdで日本語が見えない場合はcmdで、chcp 65001を入力
+参考：https://superuser.com/questions/625866/cmd-how-to-use-non-english-characters

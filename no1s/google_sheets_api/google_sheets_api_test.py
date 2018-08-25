@@ -6,7 +6,7 @@ from apiclient import discovery
 
 def main():
     
-    API_KEY = 'AIzaSyDwxpicDSa3GBcLJmgE1yxdtjYpIJFogcA'
+    API_KEY = '-The Key is secret-'
     discoveryUrl = ('https://sheets.googleapis.com/$discovery/rest?'
                     'version=v4')
     service = discovery.build(

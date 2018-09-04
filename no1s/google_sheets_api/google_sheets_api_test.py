@@ -4,9 +4,8 @@ import os
 
 from apiclient import discovery
 
-def main():
+def main(API_KEY):
     
-    API_KEY = '-The Key is secret-'
     discoveryUrl = ('https://sheets.googleapis.com/$discovery/rest?'
                     'version=v4')
     service = discovery.build(
@@ -31,9 +30,9 @@ def main():
 
 if __name__ == '__main__':
     from sys import argv
-
+   
     if len(argv) == 2:
-        main(key=argv[1])
+        main(API_KEY=argv[1])
     else:
-        main()  
+        print("PLEASE INSERT API_KEY")  
 # [END]
